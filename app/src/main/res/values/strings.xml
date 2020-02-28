@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">desafio03</string>
+    <string name="pregunta">Pregunta</string>
+    <string name="categoria">Categoria</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
